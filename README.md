@@ -1,2 +1,5 @@
 # csharp_playersguide5_answers
-My take on the completion of the challenges in "The C# Player's Guide."
+
+Link to website: https://csharpplayersguide.com/
+
+The files in the "OneFileChallenges" folder require a new console project to run.
