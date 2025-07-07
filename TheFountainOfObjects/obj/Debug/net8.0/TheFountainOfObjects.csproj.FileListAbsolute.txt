@@ -1,0 +1,14 @@
+D:\CSharpPlayersGuide\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.exe
+D:\CSharpPlayersGuide\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.deps.json
+D:\CSharpPlayersGuide\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.runtimeconfig.json
+D:\CSharpPlayersGuide\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.dll
+D:\CSharpPlayersGuide\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.pdb
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.AssemblyInfo.cs
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.dll
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\refint\TheFountainOfObjects.dll
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.pdb
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.genruntimeconfig.cache
+D:\CSharpPlayersGuide\TheFountainOfObjects\obj\Debug\net8.0\ref\TheFountainOfObjects.dll
